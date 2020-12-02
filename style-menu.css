@@ -1,0 +1,11 @@
+#menu-bar a{
+    text-decoration:none;
+    font-weight: 800;
+    font-size: 14px;
+    
+    background-image: url('images/menu-button.gif');
+    background-repeat: no-repeat;
+    display: block;
+    width;128;
+    height: 25px;
+}

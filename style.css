@@ -1,0 +1,55 @@
+table{
+    width:100%;
+    border-collapse: collapse;
+    border-style: solid;
+}
+h1{
+    background-color: darkgrey;
+    color: mediumblue;
+    text-decoration: none;
+}
+body{
+    background-color:aliceblue;
+}
+#menu{
+    background-color:cadetblue;
+}
+h1:hover{
+    color: black;
+}
+ul{
+    color: mediumblue;
+    background-color: darkgrey;
+}
+ul:hover{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    background-color: darkgrey
+}
+
+a:hover{
+    background-color: aliceblue;
+    color:mediumblue;
+}
+
+menu a:hover{
+    color: darkgrey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
